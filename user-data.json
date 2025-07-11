@@ -1,1 +1,18 @@
+[
+  {
+    "username": "beeni",
+    "password": "1234",
+    "UID": "027224",
+    "status": "On",
+    "speed": 900,
+    "name": "Beeni Grewal",
+    "email": "love@example.com",
+    "whatsapp": "+923001234567",
+    "packages": "Pro",
+    "paymentProof": "https://example.com/screenshot.jpg",
+    "qa": "Yes",
+    "banner": "🔥 Welcome to Auto-Buy V3.0!",
+    "timestamp": "7/11/2025"
+  }
+]
 
